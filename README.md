@@ -1,5 +1,5 @@
 # Challenge
-You have to create a struct, named Student, representing the student's details, as mentioned above, and store the data of a student.
+You have to create a struct, named Student, representing the student's details and store the data of a student.
 
 # Input Format
 
